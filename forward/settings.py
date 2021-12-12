@@ -40,11 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # 'rest_framework',
-    # 'django_tables2',
+    'rest_framework',
+    'django_tables2',
     'hello_world',
     'book',
-    # 'combine',
+    'combine',
     # 'corsheaders',
 ]
 
